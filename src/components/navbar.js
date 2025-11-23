@@ -117,10 +117,10 @@ export default function Navbar() {
         >
           <div className="py-4 px-6 space-y-2">
             {[
-              { label: "Home", id: "home" },
-              { label: "About", id: "about" },
-              { label: "Skills", id: "skills" },
-              { label: "Achievements", id: "achievements"},
+              { label: t("home"), id: "home" },
+              { label: t("about"), id: "about" },
+              { label: t("skills"), id: "skills" },
+              { label: t("achievements"), id: "achievements"},
             ].map((item, index) => (
               <button
                 key={item.id}
