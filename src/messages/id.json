@@ -1,0 +1,137 @@
+{
+  "navbar": {
+    "home": "Beranda",
+    "about": "Tentang",
+    "skills": "Keahlian",
+    "achievements": "Pencapaian"
+  },
+  "hero": {
+    "subtitle": "Seorang Full Stack Developer yang berdedikasi dalam mengembangkan solusi web dinamis, didukung oleh inovasi dan teknologi cloud.",
+    "opportunity": "Tersedia untuk Peluang"
+  },
+  "about": {
+    "title": "Tentang Saya",
+    "greeting": "Halo! Saya ",
+    "description1": "seorang Full Stack Developer yang bersemangat dalam menciptakan solusi web dinamis. Dengan latar belakang yang kuat dalam pengembangan web dan pengalaman di berbagai proyek, saya berkomitmen untuk menghadirkan inovasi melalui teknologi cloud. ",
+    "description2": "Saya percaya bahwa teknologi memiliki kekuatan untuk mengubah dunia, dan saya berupaya menjadi bagian dari perubahan tersebut dengan terus belajar dan beradaptasi dengan tren terbaru di industri ini.",
+    "description3": "Ayo Terhubung! 🚀"
+  },
+  "skills": {
+    "title": "Keahlian Saya",
+    "subtitle": "Teknologi dan alat yang saya kuasai untuk membangun solusi web modern",
+    "tech": "Teknologi",
+    "project": "Proyek",
+    "year": "Tahun Pengalaman",
+    "cert": "Sertifikat"
+  },
+  "projects": {
+    "title": "Proyek Saya",
+    "subtitle": "Karya-karya terbaik yang telah saya kembangkan",
+    "umkmwonorejodesc": "Sebuah Website Sistem Informasi UMKM Wonorejo yang dirancang untuk memudahkan pengelolaan UMKM Wonorejo.",
+    "godivedesc": "Aplikasi rekomendasi tempat menyelam dengan data cuaca dan deteksi ikan berbahaya di setiap tempatnya.",
+    "justibotdesc": "Website layanan konsultasi hukum di Indonesia dengan fitur Chatbot edukasi hukum, direktori pengacara, dan template dokumen legal.",
+    "antarkitadesc": "Sebuah UI UX aplikasi resep makanan yang diukung dengan fitur resep favorit, deskripsi penjelasan resep, notifikasi resep baru, dan Generative AI.",
+    "detail": "Lihat Detail"
+  },
+  "achievements": {
+    "title": "Pencapaian",
+    "subtitle": "Jelajahi proyek-proyek dan sertifikasi saya",
+    "projecttitle": "Proyek Saya",
+    "projectsubtitle": "Karya terbaru dan inovasi",
+    "projecttitle2": "Pengembangan Web",
+    "projecttitle3": "Teknologi",
+    "certtitle": "Sertifikat Saya",
+    "certsubtitle": "Pencapaian Profesional",
+    "certtitle2": "Menjadi Google Cloud Engineer",
+    "certtitle3": "Google Cybersecurity",
+    "certtitle4": "Cisco Dasar"
+  },
+  "cta": {
+    "greeting": "Mari Berkolaborasi",
+    "title": "Tertarik Bekerja Sama?",
+    "subtitle": "Saya terbuka untuk proyek baru, kolaborasi menarik, dan peluang profesional. Mari wujudkan ide Anda bersama!",
+    "detail": "Hubungi Saya",
+    "cv": "Unduh CV"
+  },
+  "umkmwonorejo": {
+    "title": "Website UMKM Wonorejo",
+    "subtitle": "Platform Digital untuk Memberdayakan UMKM Lokal",
+    "desctitle": "Tentang Proyek",
+    "desc1": "Website UMKM Wonorejo adalah platform digital yang dirancang untuk membantu pelaku usaha mikro, kecil, dan menengah di wilayah Wonorejo dalam memasarkan produk mereka secara online. Proyek ini bertujuan untuk meningkatkan visibilitas dan aksesibilitas UMKM lokal kepada pasar yang lebih luas.",
+    "desc2": "Dengan antarmuka yang user-friendly dan fitur-fitur modern, website ini memudahkan pelanggan untuk menjelajahi berbagai produk UMKM, mulai dari makanan tradisional, kerajinan tangan, hingga produk-produk lokal berkualitas lainnya. Platform ini juga dilengkapi dengan sistem katalog produk yang terorganisir dengan baik.",
+    "desc3": "Proyek ini dikembangkan menggunakan teknologi web terkini untuk memastikan performa yang optimal, responsif di berbagai perangkat, dan pengalaman pengguna yang menyenangkan. Melalui digitalisasi ini, diharapkan UMKM Wonorejo dapat berkembang dan bersaing di era digital.",
+    "featuretitle": "Fitur Utama",
+    "feature1": "Katalog Produk",
+    "feature1desc": "Tampilan produk UMKM yang menarik dan terorganisir",
+    "feature2": "Desain Responsif",
+    "feature2desc": "Tampilan optimal di semua perangkat",
+    "feature3": "Informasi Lengkap",
+    "feature3desc": "Detail produk dan kontak UMKM",
+    "feature4": "Performa Cepat",
+    "feature4desc": "Loading time yang optimal untuk pengalaman terbaik"
+  },
+  "godive": {
+    "title": "Godive",
+    "subtitle": "Aplikasi Rekomendasi Tempat Menyelam Indonesia",
+    "desctitle": "Tentang Proyek",
+    "desc1": "GoDive adalah aplikasi rekomendasi tempat menyelam di Indonesia yang dirancang untuk membantu penyelam pemula hingga profesional menemukan spot diving terbaik dengan informasi yang lengkap dan akurat. Aplikasi ini hadir untuk memberikan pengalaman menyelam yang lebih aman dan terencana melalui sistem rekomendasi lokasi yang mempertimbangkan kondisi cuaca, tingkat kesulitan penyelaman, serta faktor keamanan perairan.",
+    "desc2": "Dengan antarmuka yang intuitif, GoDive menyediakan informasi cuaca real-time di setiap lokasi penyelaman, sehingga pengguna dapat mengetahui kondisi angin, gelombang, hingga jarak pandang bawah air sebelum memulai aktivitas diving. Selain itu, aplikasi ini dilengkapi fitur unggulan berupa deteksi peralatan diving, di mana pengguna cukup memotret peralatan yang mereka miliki untuk memastikan kelengkapan dan kesesuaian perlengkapannya sebelum menyelam.",
+    "desc3": "GoDive juga menawarkan fitur identifikasi spesies laut berbasis foto untuk membantu penyelam mengenali apakah spesies yang mereka temui berbahaya atau tidak. Semua fitur ini dikembangkan menggunakan teknologi web dan AI modern untuk memberikan pengalaman yang aman, informatif, dan responsif di berbagai perangkat. Dengan GoDive, diharapkan aktivitas diving di Indonesia semakin aman, menyenangkan, dan dapat diakses oleh lebih banyak orang.",
+    "featuretitle": "Fitur Utama",
+    "feature1": "Rekomendasi Lokasi",
+    "feature1desc": "Rekomendasi lokasi yang mempertimbangkan kondisi cuaca, tingkat kesulitan penyelaman, serta faktor keamanan perairan",
+    "feature2": "Informasi Cuaca",
+    "feature2desc": "Informasi cuaca real-time di setiap lokasi penyelaman",
+    "feature3": "Deteksi Peralatan Diving",
+    "feature3desc": "Fitur unggulan berupa deteksi peralatan diving",
+    "feature4": "Identifikasi Spesies Laut",
+    "feature4desc": "Fitur identifikasi spesies laut berbasis foto"
+  },
+  "justibot": {
+    "title": "Justibot",
+    "subtitle": "Website Layanan Konsultasi Hukum Indonesia Berteknologi AI",
+    "desctitle": "Tentang Proyek",
+    "desc1": "JustiBot adalah platform digital yang dirancang untuk membantu masyarakat Indonesia dalam mengakses layanan konsultasi hukum secara lebih mudah dan terjangkau. Proyek ini bertujuan untuk memberikan solusi cepat dan terpercaya melalui fitur chatbot edukasi hukum, direktori pengacara profesional, serta berbagai dokumen legal siap pakai. Dengan adanya platform ini, JustiBot mendukung upaya peningkatan literasi hukum sekaligus mempermudah pengguna dalam menemukan layanan hukum yang sesuai dengan kebutuhan mereka.",
+    "desc2": "Dengan antarmuka yang user-friendly dan fitur-fitur modern, website ini memudahkan pengguna untuk menjelajahi berbagai kebutuhan hukum, mulai dari membaca artikel hukum terbaru, mencari pengacara berdasarkan spesialisasi, hingga mengunduh template dokumen hukum seperti perjanjian atau surat kuasa. Seluruh informasi disusun secara terorganisir agar pengguna dapat bernavigasi dengan cepat dan efisien tanpa pengalaman teknis khusus.",
+    "desc3": "Proyek ini dikembangkan menggunakan teknologi web terkini untuk memastikan performa yang optimal, kecepatan akses, serta tampilan yang responsif di berbagai perangkat. Integrasi dengan chatbot AI juga memberikan pengalaman interaktif yang membantu pengguna memahami isu hukum secara sederhana. Melalui digitalisasi layanan hukum ini, diharapkan JustiBot dapat menjadi solusi terpercaya bagi masyarakat dalam meningkatkan pemahaman hukum dan mendapatkan layanan legal secara efektif di era digital.",
+    "featuretitle": "Fitur Utama",
+    "feature1": "Chatbot Edukasi Hukum",
+    "feature1desc": "Fitur chatbot edukasi hukum yang membantu pengguna memahami isu hukum secara sederhana",
+    "feature2": "Direktori Pengacara",
+    "feature2desc": "Direktori pengacara profesional yang dapat diakses dengan mudah",
+    "feature3": "Dokumen Legal Siap Pakai",
+    "feature3desc": "Berbagai dokumen legal siap pakai yang dapat diunduh dengan mudah",
+    "feature4": "Artikel Hukum",
+    "feature4desc": "Artikel hukum terbaru yang dapat diakses dengan mudah"
+  },
+  "antarkita": {
+    "title": "Antarkita",
+    "subtitle": "Aplikasi Resep Makanan",
+    "desctitle": "Tentang Proyek",
+    "desc1": "Antarkita adalah konsep aplikasi resep makanan yang dirancang untuk memberikan pengalaman memasak yang lebih mudah, interaktif, dan personal bagi pengguna. Proyek ini fokus pada perancangan antarmuka pengguna (UI/UX) yang modern, ramah pengguna, serta dibuat untuk mempermudah navigasi dalam mencari dan memahami berbagai resep masakan. Desain aplikasinya menonjolkan elemen visual yang bersih, tata letak terstruktur, dan pengalaman penggunaan yang nyaman.",
+    "desc2": "Aplikasi ini dirancang memiliki beberapa fitur utama seperti daftar resep favorit, halaman deskripsi resep yang menyajikan penjelasan langkah demi langkah, serta notifikasi saat terdapat resep baru yang sesuai dengan preferensi pengguna. Semua fitur ini dirancang dalam bentuk prototipe UI/UX yang menggambarkan alur penggunaan lengkap, mulai dari pemilihan resep hingga penyimpanannya ke dalam daftar favorit.",
+    "desc3": "Selain itu, Antarkita juga memasukkan konsep Generative AI untuk memberikan rekomendasi resep secara otomatis berdasarkan bahan yang dimiliki pengguna atau kebiasaan memasak mereka. Walaupun proyek ini belum mencakup implementasi backend maupun fungsional AI, rancangan UI/UX yang dibuat memberikan gambaran jelas mengenai bagaimana fitur-fitur tersebut akan berfungsi dan berinteraksi satu sama lain dalam aplikasi yang utuh.",
+    "featuretitle": "Fitur Utama",
+    "feature1": "Generative AI",
+    "feature1desc": "Chatbot interaktif untuk membantu pengguna dalam memahami resep masakan",
+    "feature2": "Deskripsi Resep",
+    "feature2desc": "Halaman deskripsi resep yang menyajikan penjelasan langkah demi langkah",
+    "feature3": "Notifikasi Resep",
+    "feature3desc": "Notifikasi saat terdapat resep baru yang sesuai dengan preferensi pengguna",
+    "feature4": "Rekomendasi Resep",
+    "feature4desc": "Rekomendasi resep berdasarkan bahan yang dimiliki pengguna atau kebiasaan memasak mereka"
+  },
+  "certificates": {
+    "title": "Sertifikat dan Pencapaian",
+    "subtitle": "Kredensial profesional yang memvalidasi keahlian saya",
+    "search": "Cari judul sertifikat...",
+    "allyear": "Semua Tahun",
+    "allpublisher": "Semua Penerbit",
+    "notfound": "Tidak ada sertifikat yang cocok.",
+    "publisher": "Penerbit:",
+    "year": "Tahun:",
+    "credentials": "Lihat Kredensial",
+    "loadmore": "Lihat Lebih Banyak",
+    "showless": "Tampilkan Lebih Sedikit"
+  }
+}

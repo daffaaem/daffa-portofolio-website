@@ -1,0 +1,21 @@
+import createNextIntlPlugin from 'next-intl/plugin';
+
+const withNextIntl = createNextIntlPlugin('./src/i18n.js');
+
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+  experimental: {
+    serverActions: true
+  },
+  images: {
+    remotePatterns: [
+      {
+        protocol: "https",
+        hostname: "toymskelmxthrqhijkel.supabase.co",
+        pathname: "/storage/v1/object/**"
+      }
+    ]
+  }
+};
+
+export default withNextIntl(nextConfig);

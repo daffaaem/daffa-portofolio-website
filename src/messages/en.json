@@ -1,0 +1,137 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "achievements": "Achievements"
+  },
+  "hero": {
+    "subtitle": "A Full Stack Developer dedicated to crafting dynamic web solutions, powered by innovation and Cloud Technology.",
+    "opportunity": "Available for Opportunities"
+  },  
+  "about": {
+    "title": "About Me",
+    "greeting": "Hello! I'm ",
+    "description1": "a Full Stack Developer who is passionate about creating dynamic web solutions. With a strong background in web development and experience in various projects, I am committed to delivering innovation through cloud technology.",
+    "description2": "I believe that technology has the power to change the world, and I strive to be part of that change by continuing to learn and adapt to the latest trends in the industry.",
+    "description3": "By the way, Let's connect! 🚀"
+  },
+  "skills": {
+    "title": "My Expertise",
+    "subtitle": "The technologies and tools I master to build modern web solutions",
+    "tech": "Technologies",
+    "project": "Projects",
+    "year": "Years Experience",
+    "cert": "Certificates"
+  },
+  "projects": {
+    "title": "My Project",
+    "subtitle": "The best works I have developed",
+    "umkmwonorejodesc": "A Wonorejo MSME Information System Website designed to facilitate the management of Wonorejo MSMEs.",
+    "godivedesc": "A diving spot recommendation app with weather data and detection of dangerous fish at each location.",
+    "justibotdesc": "A legal consultation service website in Indonesia with features such as a legal education chatbot, a lawyer directory, and legal document templates.",
+    "antarkitadesc": "A food recipe application UI UX supported by favorite recipe features, recipe descriptions, new recipe notifications, and Generative AI.",
+    "detail": "View Detail"
+  },
+  "achievements": {
+    "title": "Achievements",
+    "subtitle": "Explore my projects and certifications",
+    "projecttitle": "My Projects",
+    "projectsubtitle": "Latest work and innovations",
+    "projecttitle2": "Web Development",
+    "projecttitle3": "Technologies",
+    "certtitle": "My Certificates",
+    "certsubtitle": "Professional achievements",
+    "certtitle2": "Become A Google Cloud Engineer",
+    "certtitle3": "Google Cybersecurity",
+    "certtitle4": "Cisco Fundamentals"
+  },
+  "cta": {
+    "greeting": "Let's Collaborate!",
+    "title": "Are you interested in working together?",
+    "subtitle": "I am open to new projects, interesting collaborations, and professional opportunities. Let's bring your idea to life together!",
+    "detail": "Contact Me",
+    "cv": "Download CV"
+  },
+  "umkmwonorejo": {
+    "title": "Website UMKM Wonorejo",
+    "subtitle": "Digital Platform to Empower Local MSMEs",
+    "desctitle": "About Project",
+    "desc1": "The Wonorejo MSME website is a digital platform designed to help micro, small, and medium enterprises in the Wonorejo area market their products online. This project aims to increase the visibility and accessibility of local MSMEs to a wider market.",
+    "desc2": "With a user-friendly interface and modern features, this website makes it easy for customers to explore a wide range of MSME products, from traditional foods and handicrafts to other high-quality local products. The platform also features a well-organized product catalog system.",
+    "desc3": "This project was developed using the latest web technology to ensure optimal performance, responsiveness across various devices, and an enjoyable user experience. Through this digitalization, it is hoped that Wonorejo MSMEs can grow and compete in the digital era.",
+    "featuretitle": "Main Feature",
+    "feature1": "Product Catalog",
+    "feature1desc": "Attractive and organized display of MSME products",
+    "feature2": "Responsive Design",
+    "feature2desc": "Optimal display on all devices",
+    "feature3": "Complete Information",
+    "feature3desc": "Product details and MSME contacts",
+    "feature4": "Fast Performance",
+    "feature4desc": "Optimal loading time for the best experience"
+  },
+  "godive": {
+    "title": "Godive",
+    "subtitle": "Indonesian Diving Spot Recommendation App",
+    "desctitle": "About Project",
+    "desc1": "GoDive is a diving spot recommendation app in Indonesia designed to help beginners to professional divers find the best diving spots with complete and accurate information. The app is designed to provide a safer and more planned diving experience through location recommendation systems that consider weather conditions, diving difficulty levels, and marine safety factors.",
+    "desc2": "With an intuitive interface, GoDive provides real-time weather information at each dive site, allowing users to check wind conditions, waves, and underwater visibility before starting their diving activities. In addition, this app is equipped with a unique feature that detects diving equipment. Users simply take a photo of their equipment to ensure that it is complete and suitable before diving.",
+    "desc3": "GoDive also offers a photo-based marine species identification feature to help divers recognize whether the species they encounter are dangerous or not. All of these features are developed using modern web and AI technology to provide a safe, informative, and responsive experience across multiple devices. With GoDive, it is hoped that diving activities in Indonesia will become safer, more enjoyable, and accessible to more people.",
+    "featuretitle": "Main Feature",
+    "feature1": "Location Recommendation",
+    "feature1desc": "Location recommendation systems that consider weather conditions, diving difficulty levels, and marine safety factors",
+    "feature2": "Weather Information",
+    "feature2desc": "Real-time weather information at each dive site",
+    "feature3": "Equipment Detection",
+    "feature3desc": "Unique feature that detects diving equipment",
+    "feature4": "Species Identification",
+    "feature4desc": "Photo-based marine species identification feature"
+  },
+  "justibot": {
+    "title": "Justibot",
+    "subtitle": "AI-Powered Indonesian Legal Consultation Service Website",
+    "desctitle": "About Project",
+    "desc1": "JustiBot is a digital platform designed to help Indonesians access legal consultation services more easily and affordably. This project aims to provide fast and reliable solutions through its legal education chatbot feature, directory of professional lawyers, and various ready-to-use legal documents. With this platform, JustiBot supports efforts to improve legal literacy while making it easier for users to find legal services that suit their needs.",
+    "desc2": "With a user-friendly interface and modern features, this website makes it easy for users to explore various legal needs, from reading the latest legal articles, searching for lawyers by specialty, to downloading legal document templates such as agreements or powers of attorney. All information is organized so that users can navigate quickly and efficiently without any special technical experience.",
+    "desc3": "This project was developed using the latest web technology to ensure optimal performance, fast access, and a responsive display on various devices. Integration with an AI chatbot also provides an interactive experience that helps users understand legal issues in a simple way. Through the digitization of legal services, it is hoped that JustiBot can become a trusted solution for the public in improving their understanding of the law and obtaining legal services effectively in the digital age.",
+    "featuretitle": "Main Feature",
+    "feature1": "Legal Education Chatbot",
+    "feature1desc": "Interactive chatbot that helps users understand legal issues in a simple way",
+    "feature2": "Professional Lawyer Directory",
+    "feature2desc": "Directory of professional lawyers that can be accessed easily",
+    "feature3": "Ready-to-Use Legal Documents",
+    "feature3desc": "Various ready-to-use legal documents that can be downloaded easily",
+    "feature4": "Legal Articles",
+    "feature4desc": "Latest legal articles that can be accessed easily"
+  },
+  "antarkita": {
+    "title": "Antarkita",
+    "subtitle": "Recipe Application",
+    "desctitle": "About Project",
+    "desc1": "Antarkita is a digital platform designed to help micro, small, and medium enterprises in the Wonorejo area market their products online. This project aims to increase the visibility and accessibility of local MSMEs to a wider market.",
+    "desc2": "This application is designed to have several key features such as a list of favorite recipes, recipe description pages that provide step-by-step explanations, and notifications when there are new recipes that match the user's preferences. All of these features are designed in the form of a UI/UX prototype that illustrates the complete usage flow, from recipe selection to saving it to the favorites list.",
+    "desc3": "In addition, Antarkita also incorporates the concept of Generative AI to automatically provide recipe recommendations based on the ingredients users have or their cooking habits. Although this project does not yet include backend implementation or AI functionality, the UI/UX design provides a clear picture of how these features will function and interact with each other in the complete application.",
+    "featuretitle": "Main Feature",
+    "feature1": "Generative AI",
+    "feature1desc": "Interactive chatbot to help users understand recipes",
+    "feature2": "Recipe Description",
+    "feature2desc": "Recipe description page that provides step-by-step explanations",
+    "feature3": "Recipe Notification",
+    "feature3desc": "Notification when there are new recipes that match the user's preferences",
+    "feature4": "Recipe Recommendation",
+    "feature4desc": "Recipe recommendation based on the ingredients users have or their cooking habits"
+  },
+  "certificates": {
+    "title": "Certificates and Achievements",
+    "subtitle": "Professional credentials that validate my expertise",
+    "search": "Search certificate title...",
+    "allyear": "All Years",
+    "allpublisher": "All Publisher",
+    "notfound": "No matching certificates.",
+    "publisher": "Publisher:",
+    "year": "Year:",
+    "credentials": "Look Credential",
+    "loadmore": "Load More",
+    "showless": "Show Less"
+  }
+}
