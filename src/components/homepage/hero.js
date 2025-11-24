@@ -83,7 +83,7 @@ export default function Hero() {
         >
           <div className="absolute inset-0 bg-gradient-to-r from-blue-500/20 to-purple-500/20 rounded-full"></div>
           <Image
-            src="/assets/image_profile.jpeg"
+            src="https://toymskelmxthrqhijkel.supabase.co/storage/v1/object/public/project/image_profile.jpeg"
             alt="Foto Daffa"
             width={384}
             height={384}

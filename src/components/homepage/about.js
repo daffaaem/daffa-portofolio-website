@@ -102,19 +102,19 @@ export default function About() {
               {[
                 {
                   href: "https://www.cloudskillsboost.google/public_profiles/8af92336-466a-49a2-972e-a68bf407639d",
-                  src: "/assets/gcsb.jpeg",
+                  src: "https://toymskelmxthrqhijkel.supabase.co/storage/v1/object/public/project/gcsb.jpeg",
                 },
                 {
                   href: "https://www.linkedin.com/in/daffaaem/",
-                  src: "/assets/linkedin.png",
+                  src: "https://toymskelmxthrqhijkel.supabase.co/storage/v1/object/public/project/linkedin.png",
                 },
                 {
                   href: "https://www.instagram.com/daffaaem",
-                  src: "/assets/instagram.png",
+                  src: "https://toymskelmxthrqhijkel.supabase.co/storage/v1/object/public/project/instagram.png",
                 },
                 {
                   href: "https://www.dicoding.com/users/daffaaem/academies",
-                  src: "/assets/dicoding.png",
+                  src: "https://toymskelmxthrqhijkel.supabase.co/storage/v1/object/public/project/dicoding.png",
                 },
               ].map((icon, i) => (
                 <div
@@ -142,7 +142,7 @@ export default function About() {
 
               <div className="relative bg-gradient-to-br from-slate-800 to-slate-900 p-2 rounded-2xl border border-slate-700 shadow-2xl">
                 <Image
-                  src="/assets/foto_ktm.jpg"
+                  src="https://toymskelmxthrqhijkel.supabase.co/storage/v1/object/public/project/foto_ktm.jpg"
                   alt="Daffa Ammar Mahendra"
                   width={400}
                   height={400}
