@@ -127,7 +127,7 @@ export default function AntarkitaDesc() {
                             <div className="group relative">
                                 <div className="absolute inset-0 bg-gradient-to-r from-blue-500 to-purple-500 rounded-2xl blur-xl opacity-0 group-hover:opacity-30 transition-opacity duration-200"></div>
                                 <div className="relative w-24 h-24 flex items-center justify-center bg-white border-2 border-slate-300 group-hover:border-purple-500 shadow-xl rounded-2xl transition-all duration-200 p-4">
-                                    <image src="/assets/techstack/figma.png" alt="Figma" className="h-12 object-contain group-hover:scale-110 transition-transform duration-200" />
+                                    <Image src="/assets/techstack/figma.png" alt="Figma" className="h-12 object-contain group-hover:scale-110 transition-transform duration-200" />
                                 </div>
                             </div>
                         </div>

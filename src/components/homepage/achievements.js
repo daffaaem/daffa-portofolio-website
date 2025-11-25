@@ -1,6 +1,5 @@
 "use client";
 
-import Image from "next/image";
 import { motion } from "framer-motion";
 import Link from "next/link";
 import { Code2, Award, FolderOpen, Certificate } from "lucide-react";
