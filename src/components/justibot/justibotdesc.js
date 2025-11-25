@@ -210,37 +210,37 @@ export default function JustibotDesc() {
                             <div className="group relative">
                                 <div className="absolute inset-0 bg-gradient-to-r from-blue-500 to-purple-500 rounded-2xl blur-xl opacity-0 group-hover:opacity-30 transition-opacity duration-200"></div>
                                 <div className="relative w-24 h-24 flex items-center justify-center bg-white border-2 border-slate-300 group-hover:border-purple-500 shadow-xl rounded-2xl transition-all duration-200 p-4">
-                                    <img src="/assets/techstack/react.png" alt="React" className="h-12 object-contain group-hover:scale-110 transition-transform duration-200" />
+                                    <image src="/assets/techstack/react.png" alt="React" className="h-12 object-contain group-hover:scale-110 transition-transform duration-200" />
                                 </div>
                             </div>
                             <div className="group relative">
                                 <div className="absolute inset-0 bg-gradient-to-r from-blue-500 to-purple-500 rounded-2xl blur-xl opacity-0 group-hover:opacity-30 transition-opacity duration-200"></div>
                                 <div className="relative w-24 h-24 flex items-center justify-center bg-white border-2 border-slate-300 group-hover:border-purple-500 shadow-xl rounded-2xl transition-all duration-200 p-4">
-                                    <img src="/assets/techstack/tailwindcss.png" alt="TailwindCSS" className="h-12 object-contain group-hover:scale-110 transition-transform duration-200" />
+                                    <image src="/assets/techstack/tailwindcss.png" alt="TailwindCSS" className="h-12 object-contain group-hover:scale-110 transition-transform duration-200" />
                                 </div>
                             </div>
                             <div className="group relative">
                                 <div className="absolute inset-0 bg-gradient-to-r from-blue-500 to-purple-500 rounded-2xl blur-xl opacity-0 group-hover:opacity-30 transition-opacity duration-200"></div>
                                 <div className="relative w-24 h-24 flex items-center justify-center bg-white border-2 border-slate-300 group-hover:border-purple-500 shadow-xl rounded-2xl transition-all duration-200 p-4">
-                                    <img src="/assets/techstack/nodejs.png" alt="NodeJS" className="h-12 object-contain group-hover:scale-110 transition-transform duration-200" />
+                                    <image src="/assets/techstack/nodejs.png" alt="NodeJS" className="h-12 object-contain group-hover:scale-110 transition-transform duration-200" />
                                 </div>
                             </div>
                             <div className="group relative">
                                 <div className="absolute inset-0 bg-gradient-to-r from-blue-500 to-purple-500 rounded-2xl blur-xl opacity-0 group-hover:opacity-30 transition-opacity duration-200"></div>
                                 <div className="relative w-24 h-24 flex items-center justify-center bg-white border-2 border-slate-300 group-hover:border-purple-500 shadow-xl rounded-2xl transition-all duration-200 p-4">
-                                    <img src="/assets/techstack/expressjs.png" alt="ExpressJS" className="h-12 object-contain group-hover:scale-110 transition-transform duration-200" />
+                                    <image src="/assets/techstack/expressjs.png" alt="ExpressJS" className="h-12 object-contain group-hover:scale-110 transition-transform duration-200" />
                                 </div>
                             </div>
                             <div className="group relative">
                                 <div className="absolute inset-0 bg-gradient-to-r from-blue-500 to-purple-500 rounded-2xl blur-xl opacity-0 group-hover:opacity-30 transition-opacity duration-200"></div>
                                 <div className="relative w-24 h-24 flex items-center justify-center bg-white border-2 border-slate-300 group-hover:border-purple-500 shadow-xl rounded-2xl transition-all duration-200 p-4">
-                                    <img src="/assets/techstack/postgresql.png" alt="PostgreSQL" className="h-12 object-contain group-hover:scale-110 transition-transform duration-200" />
+                                    <image src="/assets/techstack/postgresql.png" alt="PostgreSQL" className="h-12 object-contain group-hover:scale-110 transition-transform duration-200" />
                                 </div>
                             </div>
                             <div className="group relative">
                                 <div className="absolute inset-0 bg-gradient-to-r from-blue-500 to-purple-500 rounded-2xl blur-xl opacity-0 group-hover:opacity-30 transition-opacity duration-200"></div>
                                 <div className="relative w-24 h-24 flex items-center justify-center bg-white border-2 border-slate-300 group-hover:border-purple-500 shadow-xl rounded-2xl transition-all duration-200 p-4">
-                                    <img src="/assets/techstack/figma.png" alt="Figma" className="h-12 object-contain group-hover:scale-110 transition-transform duration-200" />
+                                    <image src="/assets/techstack/figma.png" alt="Figma" className="h-12 object-contain group-hover:scale-110 transition-transform duration-200" />
                                 </div>
                             </div>
                         </div>

@@ -44,7 +44,9 @@
     "certsubtitle": "Pencapaian Profesional",
     "certtitle2": "Menjadi Google Cloud Engineer",
     "certtitle3": "Google Cybersecurity",
-    "certtitle4": "Cisco Dasar"
+    "certtitle4": "Cisco Dasar",
+    "moreproject": "Lihat Semua Proyek",
+    "morecert": "Lihat Semua Sertifikat"
   },
   "cta": {
     "greeting": "Mari Berkolaborasi",

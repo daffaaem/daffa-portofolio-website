@@ -44,7 +44,9 @@
     "certsubtitle": "Professional achievements",
     "certtitle2": "Become A Google Cloud Engineer",
     "certtitle3": "Google Cybersecurity",
-    "certtitle4": "Cisco Fundamentals"
+    "certtitle4": "Cisco Fundamentals",
+    "moreproject": "View All Projects",
+    "morecert": "View All Certificates"
   },
   "cta": {
     "greeting": "Let's Collaborate!",
