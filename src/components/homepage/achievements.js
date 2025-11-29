@@ -2,7 +2,7 @@
 
 import { motion } from "framer-motion";
 import Link from "next/link";
-import { Code2, Award, FolderOpen, Certificate } from "lucide-react";
+import { Code2, Award, FolderOpen } from "lucide-react";
 import { useTranslations } from "next-intl";
 
 export default function Achievements() {
@@ -32,7 +32,6 @@ export default function Achievements() {
             whileInView={{ opacity: 1, x: 0 }}
             transition={{ duration: 0.8 }}
             viewport={{ once: true }}
-            // whileHover={{ y: -8, scale: 1.02 }}
             className="group relative bg-gradient-to-br from-slate-800 to-slate-900 rounded-2xl overflow-hidden border border-slate-700 hover:border-blue-500 transition-all duration-300 shadow-xl hover:shadow-blue-500/50"
           >
             <div className="p-8">
@@ -85,7 +84,6 @@ export default function Achievements() {
             whileInView={{ opacity: 1, x: 0 }}
             transition={{ duration: 0.8 }}
             viewport={{ once: true }}
-            // whileHover={{ y: -8, scale: 1.02 }}
             className="group relative bg-gradient-to-br from-slate-800 to-slate-900 rounded-2xl overflow-hidden border border-slate-700 hover:border-purple-500 transition-all duration-300 shadow-xl hover:shadow-purple-500/50"
           >
             <div className="p-8">
